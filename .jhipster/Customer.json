@@ -1,0 +1,28 @@
+{
+  "fluentMethods": true,
+  "clientRootFolder": "",
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "lineUserId",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nickname",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "useLanguage",
+      "fieldType": "String"
+    }
+  ],
+  "changelogDate": "20200701084103",
+  "dto": "mapstruct",
+  "searchEngine": false,
+  "service": "serviceClass",
+  "entityTableName": "customer",
+  "databaseType": "sql",
+  "readOnly": false,
+  "jpaMetamodelFiltering": false,
+  "pagination": "pagination"
+}
